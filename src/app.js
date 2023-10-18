@@ -1,4 +1,4 @@
-// Listas de pronombres, adjetivos, sustantivos y extensiones
+
 let pronouns = ['the', 'our', 'my'];
 let adjectives = ['great', 'big', 'cool'];
 let nouns = ['jogger', 'racoon', 'website'];
